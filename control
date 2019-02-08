@@ -1,0 +1,9 @@
+Package: com.muirey03.spotifywork
+Name: SpotifyWork
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: No more Spotify crashes
+Maintainer: Muirey03
+Author: Muirey03
+Section: Tweaks
