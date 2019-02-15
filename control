@@ -1,5 +1,5 @@
-Package: com.muirey03.spotifywork
-Name: SpotifyWork
+Package: com.muirey03.workffs
+Name: WorkFFS
 Depends: mobilesubstrate
 Version: 1.0.0
 Architecture: iphoneos-arm
