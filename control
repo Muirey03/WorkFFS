@@ -3,7 +3,7 @@ Name: WorkFFS
 Depends: mobilesubstrate
 Version: 1.0.0
 Architecture: iphoneos-arm
-Description: No more Spotify crashes
+Description: No more crashing apps
 Maintainer: Muirey03
 Author: Muirey03
 Section: Tweaks
